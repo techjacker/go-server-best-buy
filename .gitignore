@@ -1,0 +1,9 @@
+vendor
+release
+*.sublime-*
+.build
+.cache
+.tmp
+.godeps
+.DS_Store
+*.log
